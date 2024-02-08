@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Saksham Bejwani</h1>
-<h3 align="left">23, passionate fullstack developer developer from India</h3>
+<h3 align="left">23, passionate fullstack developer from India</h3>
 
 - 🌱 I’m currently learning **NextJS, Selenium GRID, AI**
 
