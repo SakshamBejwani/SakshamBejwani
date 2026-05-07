@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Saksham Bejwani</h1>
 
 <p align="center">
-  Fullstack Developer • AI Enthusiast • Power Platform Builder
+  Fullstack Developer • AI Enthusiast 
 </p>
 
 <p align="center">
